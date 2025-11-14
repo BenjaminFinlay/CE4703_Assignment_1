@@ -8,6 +8,7 @@ The document for the project asks us to create 15 working functions, a few simpl
 The project is split into 5 modules where each contain a C file and header file.
 The Header files contains the function definitions, preprocessor macros and  C files contain the function implentations.
 
+
 <h2>Project Structure</h2>
 
 <h3>Main Functions</h3>
@@ -44,5 +45,13 @@ The Header files contains the function definitions, preprocessor macros and  C f
   <li>Menu_Header.h</li>
   <li>Handles the three menu options that calls the working functions in a certain order</li>
 </ul>
+
+<h3>Doxygen Documentation</h3>
+<p>The project is commented in doxygen format to generate accurate documentation in HTML format with navigation</p>
+
+
+<h2>Console UI</h2>
+<img width="885" height="335" alt="Assignment1_menu" src="https://github.com/user-attachments/assets/8fd8752c-b9da-4b97-b8e4-efb7f3128e32" />
+<img width="503" height="871" alt="menu_option_1" src="https://github.com/user-attachments/assets/f515472c-4161-498d-8efa-6b25a2764eb8" />
 
 
